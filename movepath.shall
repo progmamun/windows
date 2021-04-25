@@ -1,0 +1,4 @@
+//before do that good practices is create a restore point
+
+robocopy "source" "destination" /sec /move /e
+mklink "SOURCE" "DESTINATION" /j
