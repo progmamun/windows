@@ -1,0 +1,12 @@
+diskpart
+
+ list volume
+
+exit
+
+f:
+
+dir
+
+setup.exe
+
