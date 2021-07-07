@@ -1,0 +1,9 @@
+heroku login
+
+git init
+
+heroku git:remote -a "progmamun"
+git add .
+git comit -m ""
+git push heroku master
+heroku open
